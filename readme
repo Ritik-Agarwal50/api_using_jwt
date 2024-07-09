@@ -12,4 +12,4 @@ We are supabase to perform all those actions.
 What Next? 
 --> I will also try to implement the JWT(JSON Web Token) on top of this. 
 
---> I will try to implement Docker on it. We will try to create an image of it and  will containerize that image so that we can use that image remotely.
+--> I will try to implement Docker on it. We will try to create an image of it and  will containerize that image so that we can use that image remotely (completed).

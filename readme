@@ -13,4 +13,3 @@ What Next?
 --> I will also try to implement the JWT(JSON Web Token) on top of this. 
 
 --> I will try to implement Docker on it. We will try to create an image of it and  will containerize that image so that we can use that image remotely.
->>>>>>> 72e3c93e964da52299e137cfef6c71c1eb6994f9

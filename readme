@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is basic API for TODO list. It has 4 endpoints: <br>
 1. GET /todos - get all todos<br>
 2. POST /todos - create new todo<br>
@@ -14,3 +15,19 @@ What Next? <br>
 --> Will trying to implement Docker on it. In which we will try to create image of
 it and  will containerize that image so that we can use that image remotly.<br> 
 
+=======
+This is the basic API for the TODO list. It has 4 endpoints: 
+1. GET /todos - get all todos
+2. POST /todos - create new todo
+3. DELETE /todos/:id - delete todo by id 
+4. Update /todos/:id - update todo by id 
+
+What we have Used?
+--> We have used Go Lang to create a normal CRUD API. 
+We are supabase to perform all those actions. 
+
+What Next? 
+--> I will also try to implement the JWT(JSON Web Token) on top of this. 
+
+--> I will try to implement Docker on it. We will try to create an image of it and  will containerize that image so that we can use that image remotely.
+>>>>>>> 72e3c93e964da52299e137cfef6c71c1eb6994f9
